@@ -11,7 +11,7 @@ module.exports = {
         new webpack.NamedModulesPlugin(),
         new HtmlWebpackPlugin({
             filename: 'index.html',
-            template: './index.html',
+            template: './src/index.html',
         })
     ],
     output: {

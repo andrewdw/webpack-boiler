@@ -1,3 +1,3 @@
 var myText = document.getElementById("mytext");
 
-myText.textContent = "Does it work? ys";
+myText.textContent = "it works!";
