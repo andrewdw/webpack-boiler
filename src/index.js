@@ -1,3 +1,4 @@
-var myText = document.getElementById("mytext");
+import style from './style.scss'
 
-myText.textContent = "it works!";
+var chartElement = document.getElementById("chart");
+
